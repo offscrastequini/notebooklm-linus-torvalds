@@ -300,6 +300,14 @@ Além de aprofundar os conhecimentos sobre um dos maiores nomes da computação,
 
 ---
 
+#Imagens do Projeto
+
+![Tela Principal](imagens/notebooklm-principal.png.png)
+
+![Mapa Mental](imagens/mapa-mental.png)
+
+![Cartões Didáticos](imagens/cartoes-didaticos.png)
+
  Autor
 
 Projeto desenvolvido por Samuel Crastequini durante o Bootcamp da DIO.
